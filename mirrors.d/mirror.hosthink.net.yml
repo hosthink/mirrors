@@ -1,0 +1,15 @@
+---
+name: mirror.hosthink.net
+address:
+  http: http://mirror.hosthink.net/almalinux
+  https: https://mirror.hosthink.net/almalinux
+update_frequency: 3h
+sponsor: Hosthink
+sponsor_url: https://www.hosthink.net/
+email: ops@hosthink.net
+geolocation:
+  continent: Europe
+  country: MD
+  state_province: Chisinau
+  city: Chisinau
+...
